@@ -1,0 +1,30 @@
+{
+  "einsätze": [
+    {
+      "id": 1,
+      "jahr": 2026,
+      "datum": "2026-01-01",
+      "uhrzeit": "00:12",
+      "name": "Gebäudebrand",
+      "ort": "Wehen",
+      "fftsst": {
+        "bleidenstadt": false,
+        "hahn": false,
+        "hambach-orlen": false,
+        "neuhof": true,
+        "niederlibbach": false,
+        "seitzenhahn": false,
+        "watzhahn": false,
+        "wehen": true,
+        "wingsbach": false,
+        "elw-taunusstein": true,
+        "dlk-hahn": true,
+        "rw-hahn": false
+      },
+      "sonstige": {
+        "rtw": true,
+        "nef": false
+      }
+    },
+  ]
+}
