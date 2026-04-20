@@ -51,6 +51,32 @@
         "rtw": false,
         "nef": false
       }
+    },
+    {
+      "id": 3,
+      "jahr": 2026,
+      "datum": "2026-01-01",
+      "uhrzeit": "01:07",
+      "name": "Feuer klein innerorts",
+      "ort": "Bleidenstadt",
+      "fftsst": {
+        "bleidenstadt": true,
+        "hahn": false,
+        "hambach-orlen": false,
+        "neuhof": false,
+        "niederlibbach": false,
+        "seitzenhahn": false,
+        "watzhahn": false,
+        "wehen": false,
+        "wingsbach": false,
+        "elw-taunusstein": false,
+        "dlk-hahn": false,
+        "rw-hahn": false
+      },
+      "sonstige": {
+        "rtw": false,
+        "nef": false
+      }
     }
   ]
 }
